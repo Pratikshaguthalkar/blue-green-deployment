@@ -100,7 +100,6 @@
   echo deb https://aquasecurity.github.io/trivy-repo/deb $(lsb_release -sc) main | sudo tee -a /etc/apt/sources.list.d/trivy.list
   sudo apt-get update -y
   sudo apt-get install trivy -y
-
   ```
 
 #### Setup Nexus Server
