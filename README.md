@@ -11,4 +11,8 @@
 3. Nexus
 4. Server
 
-#### Setup
+#### Setup Server Instance
+
+```
+
+```
