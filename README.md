@@ -89,7 +89,7 @@
 * Give permissions to jenkins user to run docker commands
 
   ```
-
+  sudo usermod -aG docker jenkins
   ```
 
 #### Setup Nexus Server
