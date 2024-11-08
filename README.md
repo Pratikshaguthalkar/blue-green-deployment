@@ -34,4 +34,9 @@
   1. Access Key
   2. Secret Access Key
   3. Region
-*
+* Install Terraform
+
+  ```
+  sudo apt-get update && sudo apt-get install -y gnupg software-properties-common
+
+  ```
