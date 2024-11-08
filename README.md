@@ -62,5 +62,5 @@
 
 * Run the script
   ```
-  bash jenkins
+
   ```
