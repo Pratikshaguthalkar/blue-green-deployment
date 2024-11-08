@@ -98,5 +98,10 @@
 
    ```
    sudo usermond -aG docker ubuntu
-   newgrp 
+   newgrp docker
+   ```
+4. Create a Nexus Container
+
+   ```
+
    ```
