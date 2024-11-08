@@ -51,7 +51,7 @@
 * Modify Files
 
   1. variables.tf (Modify Private Key Name)
-  2. main.tf (Modify Region)
+  2. main.tf (Modify Region name & Availa)
 * Apply Terraform Lifecycle
 
   1. `terraform init`
