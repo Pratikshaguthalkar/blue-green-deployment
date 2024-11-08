@@ -118,5 +118,5 @@
 7. Copy and Store admin password for login purpose
 
    ```
-   cat sonatype-work/nexus3/
+   cat sonatype-work/nexus3/admin.password
    ```
