@@ -15,5 +15,5 @@
 
 * Update Server
   ```
-
+  sudo apt update -y
   ```
