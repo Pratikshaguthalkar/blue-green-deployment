@@ -32,5 +32,5 @@
   3. Region
 
      ```
-
+     aws configure
      ```
