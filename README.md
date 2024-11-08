@@ -63,7 +63,7 @@
 * Run the script
 
   ```
-  sudo bash jenkins.sh
+  span
   ```
 
 #### Setup Nexus Server
