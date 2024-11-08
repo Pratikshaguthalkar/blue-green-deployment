@@ -219,4 +219,8 @@
    sudo usermod -aG docker ubuntu
    newgrp docker
    ```
-4. Create c
+4. Create container of SonarQube
+
+   ```
+   docekr
+   ```
