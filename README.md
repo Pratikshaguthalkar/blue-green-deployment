@@ -113,5 +113,6 @@
 6. Copy admin Password and store it
 
    ```
-   docker exect -it <container ID> 
+   docker exect -it <container ID> /bin/bash
    ```
+7.
