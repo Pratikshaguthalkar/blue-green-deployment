@@ -6,7 +6,7 @@
 
 ### Create 4 Ec2 instance
 
-1. Server
+1. 
 2. Jenkins
 3. SonarQube
 4.
