@@ -94,4 +94,8 @@
    ```
    sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
    ```
-3. Give
+3. Give permissions to Ubuntu user to run Docker commands
+
+   ```
+   sudo usermond -aG 
+   ```
