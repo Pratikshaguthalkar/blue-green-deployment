@@ -29,7 +29,4 @@
 
   ```
 
-  1. Access Key
-  2. Secret Access Key
-  3. Region
   ```
