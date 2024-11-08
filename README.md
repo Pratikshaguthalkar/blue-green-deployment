@@ -15,5 +15,4 @@
 
 ```
 sudo apt update -y
-
 ```
