@@ -68,8 +68,8 @@
 
 #### Setup Nexus Server
 
-1.
+1. Update the server
 
 ```
-sudo apt update -y
+span
 ```
