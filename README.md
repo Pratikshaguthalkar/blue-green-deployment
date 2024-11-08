@@ -61,10 +61,15 @@
 #### Setup Jenkins Server
 
 * Run the script
+
+  ```
+  sudo bash jenkins.sh
+  ```
+* Install Docker
+
   ```
 
   ```
-* Install Docker
 
 #### Setup Nexus Server
 
