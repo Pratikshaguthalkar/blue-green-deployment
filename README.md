@@ -230,4 +230,4 @@
    docker ps
    ```
 
-#### Create pods & svc
+#### Create pods,svc
