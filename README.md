@@ -27,4 +27,5 @@
   ```
 * Configure AWS Credentials
 
-  1.
+  1. Access Key
+  2.
