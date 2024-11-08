@@ -48,4 +48,6 @@
   sudo apt-get install terraform -y
   ```
 * Clone The Repo
-* Apply
+* Apply Terraform Lifecycle
+
+  1. Terraform
