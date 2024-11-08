@@ -234,5 +234,5 @@
 
 1. Create a namespace
    ```
-   kubectl 
+   kubectl create ns webapps
    ```
