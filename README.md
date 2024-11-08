@@ -240,5 +240,5 @@
 2. Run following command
 
    ```
-   kubectl apply 
+   kubectl apply -f svc/
    ```
