@@ -18,11 +18,11 @@
    ```
    sudo apt update -y
    ```
-1. Install AWS cli
+2. Install AWS cli
 
    ```
    curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
    unzip awscliv2.zip
    sudo ./aws/install
    ```
-1. Configure AWS Credentials
+3. Configure AWS Credentials
