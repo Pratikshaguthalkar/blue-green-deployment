@@ -110,7 +110,7 @@
    ```
    docker ps
    ```
-6. Copy admin Password and store it
+6. Take access of Container
 
    ```
    docker exect -it <container ID> /bin/bash
