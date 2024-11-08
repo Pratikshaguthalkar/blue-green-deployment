@@ -69,7 +69,6 @@
 #### Setup Nexus Server
 
 1. Update the server
+   ```
 
-```
-span
-```
+   ```
