@@ -106,3 +106,7 @@
    docker run -d -p 8081:8081 sonatype/nexus3
    ```
 5. Check if docker container is created succesfully
+
+   ```
+   docker ps
+   ```
