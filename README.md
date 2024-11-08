@@ -92,6 +92,11 @@
   sudo usermod -aG docker jenkins
   ```
 * Restart Jenkins
+* Install Trivy
+
+  ```
+
+  ```
 
 #### Setup Nexus Server
 
