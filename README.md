@@ -188,6 +188,12 @@
 #### Setup SonarQube Server
 
 1. Update the Server
+
    ```
    sudo apt update
+   ```
+2. Install Docker
+
+   ```
+
    ```
