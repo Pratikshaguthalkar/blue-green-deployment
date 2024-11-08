@@ -222,5 +222,5 @@
 4. Create container of SonarQube
 
    ```
-   docker run -d -p 9000:9000 sonarqube
+   docker run -d -p 9000:9000 sonarqube:lts-community
    ```
