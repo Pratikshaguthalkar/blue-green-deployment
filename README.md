@@ -110,4 +110,8 @@
    ```
    docker ps
    ```
-6. Copy admin Password and store
+6. Copy admin Password and store it
+
+   ```
+   docker 
+   ```
