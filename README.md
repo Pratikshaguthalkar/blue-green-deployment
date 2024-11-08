@@ -224,3 +224,4 @@
    ```
    docker run -d -p 9000:9000 sonarqube:lts-community
    ```
+5. Check container is in
