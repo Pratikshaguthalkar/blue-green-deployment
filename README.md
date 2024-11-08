@@ -184,4 +184,4 @@
    cat sonatype-work/nexus3/admin.password
    ```
 
-#### Setup SonarQube
+#### Setup SonarQube Server
