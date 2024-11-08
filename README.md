@@ -103,5 +103,5 @@
 4. Create a Nexus Container
 
    ```
-   docker run -d -p 8081:
+   docker run -d -p 8081:8081 
    ```
