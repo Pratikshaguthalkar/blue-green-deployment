@@ -57,7 +57,11 @@
   1. `terraform init`
   2. `terraform plan`
   3. `terraform apply --auto-approve`
-* U
+* Update kubeconfig for cluster
+
+  ```
+  aws eks update-kubeconfig --region region-code --name my-cluster
+  ```
 
 #### Setup Jenkins Server
 
