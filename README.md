@@ -86,7 +86,11 @@
   ```
   sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
   ```
-* Give permissions to jen
+* Give permissions to jenkins user to run docker commands
+
+  ```
+
+  ```
 
 #### Setup Nexus Server
 
