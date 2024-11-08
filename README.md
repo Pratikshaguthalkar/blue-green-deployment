@@ -32,4 +32,5 @@
   ```
 
   1. Access Key
+  2. Secret Access
   2.
