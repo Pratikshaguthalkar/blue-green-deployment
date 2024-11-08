@@ -232,4 +232,7 @@
 
 #### Create pods,svc & namespace
 
-1. C
+1. Create a namespace
+   ```
+   kubectl 
+   ```
