@@ -13,6 +13,4 @@
 
 #### Setup Server Instance
 
-```
-sudo apt update -y
-```
+*
