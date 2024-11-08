@@ -50,7 +50,7 @@
 * Clone The Repo
 * Modify Files
 
-  1. variables.tf
+  1. variables.tf (Add pr)
 * Apply Terraform Lifecycle
 
   1. `terraform init`
