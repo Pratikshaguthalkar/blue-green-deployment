@@ -115,4 +115,4 @@
    ```
    docker exect -it <container ID> /bin/bash
    ```
-7.
+7. Copy and Store admin
