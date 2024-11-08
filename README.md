@@ -25,9 +25,5 @@
   unzip awscliv2.zip
   sudo ./aws/install
   ```
-* Configure AWS Credentials 
-
-
-  ```
-  aws configure
-  ```
+* Configure AWS Credentials
+*
