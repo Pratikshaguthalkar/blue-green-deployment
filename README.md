@@ -187,4 +187,7 @@
 
 #### Setup SonarQube Server
 
-1.
+1. Update the Server
+   ```
+   sudo apt update
+   ```
