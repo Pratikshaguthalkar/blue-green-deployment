@@ -17,3 +17,7 @@
   ```
   sudo apt update -y
   ```
+* Install AWS cli
+  ```
+
+  ```
