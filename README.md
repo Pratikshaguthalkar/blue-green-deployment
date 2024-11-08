@@ -101,7 +101,7 @@
   sudo apt-get update -y
   sudo apt-get install trivy -y
   ```
-* Install kubectl on Jenkins 
+* Install kubectl on Jenkins & Server Instance
 
   ```
   sudo apt-get update
