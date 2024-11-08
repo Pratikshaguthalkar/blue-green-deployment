@@ -216,5 +216,5 @@
 3. Give permission to ubuntu user to run docker commands
 
    ```
-
+   sudo usermod -a
    ```
