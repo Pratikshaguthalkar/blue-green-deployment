@@ -110,4 +110,4 @@
    ```
    docker ps
    ```
-6.
+6. Copy admin Password and store
