@@ -115,7 +115,13 @@
   ```
 
   ```
+  echo 'deb [signed-by=/etc/apt/keyrings/kubernetes-apt-keyring.gpg] https://pkgs.k8s.io/core:/stable:/v1.31/deb/ /' | sudo tee /etc/apt/sources.list.d/kubernetes.list
+  sudo chmod 644 /etc/apt/sources.list.d/kubernetes.list
+  ```
 
+  ```
+  sudo apt-get update -y
+  sudo apt-get install -y kubectl
   ```
 
 #### Setup Nexus Server
