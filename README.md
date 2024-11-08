@@ -115,4 +115,8 @@
    ```
    docker exect -it <container ID> /bin/bash
    ```
-7. Copy and Store admin
+7. Copy and Store admin password for login purpose
+
+   ```
+   cat 
+   ```
