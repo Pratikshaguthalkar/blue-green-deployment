@@ -50,7 +50,7 @@
 * Clone The Repo
 * Modify Files
 
-  1. variables.tf (Add Private Key Name)
+  1. variables.tf (Modify Private Key Name)
   2. main.tf (Modify Region)
 * Apply Terraform Lifecycle
 
