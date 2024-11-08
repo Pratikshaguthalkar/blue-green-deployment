@@ -237,4 +237,8 @@
    ```
    kubectl create ns webapps
    ```
-2. Run
+2. Run following command
+
+   ```
+   kubectl apply 
+   ```
