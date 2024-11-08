@@ -233,6 +233,7 @@
 #### Create pods,svc & namespace
 
 1. Create a namespace
+
    ```
    kubectl create ns webapps
    ```
