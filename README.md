@@ -213,4 +213,4 @@
    ```
    sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin -y
    ```
-3. Give per
+3. Give permission to ubuntu
