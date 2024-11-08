@@ -50,4 +50,6 @@
 * Clone The Repo
 * Apply Terraform Lifecycle
 
-  1. Terraform
+  1. Terraform init
+  2. Terraform Plan
+  3. Terraform Apply
