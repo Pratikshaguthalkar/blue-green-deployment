@@ -101,6 +101,11 @@
   sudo apt-get update -y
   sudo apt-get install trivy -y
   ```
+* Install kubectl
+
+  ```
+
+  ```
 
 #### Setup Nexus Server
 
