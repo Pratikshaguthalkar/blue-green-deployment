@@ -97,5 +97,6 @@
 3. Give permissions to Ubuntu user to run Docker commands
 
    ```
-   sudo usermond -aG 
+   sudo usermond -aG docker ubuntu
+   newgrp 
    ```
