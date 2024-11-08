@@ -101,7 +101,15 @@
   sudo apt-get update -y
   sudo apt-get install trivy -y
   ```
-* ```
+* Install kubectl on Jenkins 
+
+  ```
+  sudo apt-get update
+  # apt-transport-https may be a dummy package; if so, you can skip that package
+  sudo apt-get install -y apt-transport-https ca-certificates curl gnupg
+  ```
+
+  ```
   curl -fsSL https://pkgs.k8s.io/core:/stable:/v1.31/deb/Release.key | sudo gpg --dearmor -o /etc/apt/keyrings/kubernetes-apt-keyring.gpg
   sudo chmod 644 /etc/apt/keyrings/kubernetes-apt-keyring.gpg
   ```
