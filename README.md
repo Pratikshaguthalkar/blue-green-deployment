@@ -48,3 +48,4 @@
   sudo apt-get install terraform -y
   ```
 * Clone The Repo
+* Apply
