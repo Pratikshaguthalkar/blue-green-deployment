@@ -51,5 +51,5 @@
 * Apply Terraform Lifecycle
 
   1. terraform init
-  2. erraform Plan
-  3. Terraform Apply
+  2. terraform plan
+  3. terraform apply
