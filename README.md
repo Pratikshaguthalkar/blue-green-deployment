@@ -222,5 +222,5 @@
 4. Create container of SonarQube
 
    ```
-   docekr
+   docker run -d -p 9000:9000 
    ```
