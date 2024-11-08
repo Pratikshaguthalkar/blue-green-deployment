@@ -59,3 +59,8 @@
   3. `terraform apply --auto-approve`
 
 #### Setup Jenkins Server
+
+* Run the script
+  ```
+  bash jenkins
+  ```
