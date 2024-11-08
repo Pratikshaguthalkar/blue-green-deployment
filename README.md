@@ -61,10 +61,7 @@
 #### Setup Jenkins Server
 
 * Run the script
-
-  ```
-  span
-  ```
+* Install
 
 #### Setup Nexus Server
 
