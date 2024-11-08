@@ -91,6 +91,7 @@
   ```
   sudo usermod -aG docker jenkins
   ```
+* Restart Jenkins
 
 #### Setup Nexus Server
 
