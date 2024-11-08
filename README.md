@@ -30,3 +30,6 @@
   ```
   aws configure
   ```
+
+  1. Access Key
+  2.
