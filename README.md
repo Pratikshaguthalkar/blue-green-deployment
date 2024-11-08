@@ -65,4 +65,5 @@
   ```
   sudo bash jenkins.sh
   ```
-*
+
+#### Setup Nexus Server
