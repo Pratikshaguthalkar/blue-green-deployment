@@ -229,3 +229,5 @@
    ```
    docker ps
    ```
+
+#### Create pods & svc
