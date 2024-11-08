@@ -67,3 +67,8 @@
   ```
 
 #### Setup Nexus Server
+
+```
+sudo apt update -y
+
+```
