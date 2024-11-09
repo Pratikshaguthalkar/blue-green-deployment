@@ -18,13 +18,11 @@
   * **Zero downtime** for users.
   * Easy and fast **rollback** if problems arise.
   * **Reduced risk** of introducing bugs into production.
-  * Supports **Continuous Delivery** practices.
-* **Considerations** :
-
-  * Requires extra resources (2 environments running).
+  * Supports **Continuous Delivery** practices.**Considerations** :
+* * Requires extra resources (2 environments running).
   * Must handle **database migrations** carefully.
 
- **Goal** : Safe, smooth deployments with minimal user disruption.
+#### **Goal** : Safe, smooth deployments with minimal user disruption.
 
 ### Steps to Deploy Blue-Green Deployment on AWS
 
