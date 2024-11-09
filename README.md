@@ -26,6 +26,8 @@
 
  **Goal** : Safe, smooth deployments with minimal user disruption.
 
+### Steps to 
+
 ### Create Security Group
 
 ![1731052796586](image/README/1731052796586.png)
