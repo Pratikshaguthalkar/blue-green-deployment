@@ -5,8 +5,6 @@
   2. **Green** : New version to be deployed.
 * **Deployment Process** :
 
-    1. Deploy new version to**Green** environment.
-
     Test the Green environment (e.g., functional tests).
 
     Switch traffic from**Blue** to **Green** (e.g., via load balancer).
