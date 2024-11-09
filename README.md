@@ -12,7 +12,7 @@
   4. **Green** is now live, **Blue** is idle.
 * **Rollback** :
 
-  * If there’s an issue with Green, quickly switch back to  **Blue** .
+  * If there’s an issue with **Green**, quickly switch back to  **Blue** .
 * **Benefits** :
 
   * **Zero downtime** for users.
