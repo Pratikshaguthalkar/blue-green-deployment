@@ -1,9 +1,8 @@
 # Blue-Green-Deployment
 
-
 * **Two Environments** :
-* **Blue** : Current live version (production).
-* **Green** : New version to be deployed.
+  * **Blue** : Current live version (production).
+  * **Green** : New version to be deployed.
 * **Deployment Process** :
 
 1. Deploy new version to **Green** environment.
