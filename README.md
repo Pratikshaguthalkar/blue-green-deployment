@@ -6,9 +6,9 @@
 * **Deployment Process** :
 
 1. Deploy new version to **Green** environment.
-2. Test the Green environment (e.g., functional tests).
-3. Switch traffic from **Blue** to **Green** (e.g., via load balancer).
-4. **Green** is now live, **Blue** is idle.
+   1. Test the Green environment (e.g., functional tests).
+2. Switch traffic from **Blue** to **Green** (e.g., via load balancer).
+3. **Green** is now live, **Blue** is idle.
 
 * **Rollback** :
 * If there’s an issue with Green, quickly switch back to  **Blue** .
