@@ -5,12 +5,7 @@
   2. **Green** : New version to be deployed.
 * **Deployment Process** :
 
-    Test the Green environment (e.g., functional tests).
-
-    Switch traffic from**Blue** to **Green** (e.g., via load balancer).
-
-**
-    Green** is now live, **Blue** is idle.
+    
 
 * **Rollback** :
 * If there’s an issue with Green, quickly switch back to  **Blue** .
