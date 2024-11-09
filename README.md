@@ -22,7 +22,7 @@
 * **Considerations** :
 
   * Requires extra resources (2 environments running).
-* Must handle **database migrations** carefully.
+  * Must handle **database migrations** carefully.
 
  **Goal** : Safe, smooth deployments with minimal user disruption.
 
