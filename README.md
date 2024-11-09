@@ -26,7 +26,7 @@
 
  **Goal** : Safe, smooth deployments with minimal user disruption.
 
-### Steps to 
+### Steps to Deploy Blue-Green Deployment on AWS
 
 ### Create Security Group
 
