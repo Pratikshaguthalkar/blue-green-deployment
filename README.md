@@ -1,12 +1,10 @@
 # Blue-Green-Deployment
 
 * **Two Environments** :
+
   1. **Blue** : Current live version (production).
   2. **Green** : New version to be deployed.
 * **Deployment Process** :
-
-    1.
-
 * **Rollback** :
 * If there’s an issue with Green, quickly switch back to  **Blue** .
 * **Benefits** :
