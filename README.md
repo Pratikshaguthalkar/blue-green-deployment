@@ -5,7 +5,7 @@
   2. **Green** : New version to be deployed.
 * **Deployment Process** :
 
-    
+    1.
 
 * **Rollback** :
 * If there’s an issue with Green, quickly switch back to  **Blue** .
