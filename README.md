@@ -1,6 +1,28 @@
 # Blue-Green-Deployment
 
-## Blue-Green 
+
+* **Two Environments** :
+* **Blue** : Current live version (production).
+* **Green** : New version to be deployed.
+* **Deployment Process** :
+
+1. Deploy new version to **Green** environment.
+2. Test the Green environment (e.g., functional tests).
+3. Switch traffic from **Blue** to **Green** (e.g., via load balancer).
+4. **Green** is now live, **Blue** is idle.
+
+* **Rollback** :
+* If there’s an issue with Green, quickly switch back to  **Blue** .
+* **Benefits** :
+* **Zero downtime** for users.
+* Easy and fast **rollback** if problems arise.
+* **Reduced risk** of introducing bugs into production.
+* Supports **Continuous Delivery** practices.
+* **Considerations** :
+* Requires extra resources (2 environments running).
+* Must handle **database migrations** carefully.
+
+ **Goal** : Safe, smooth deployments with minimal user disruption.
 
 ### Create Security Group
 
