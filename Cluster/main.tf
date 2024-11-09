@@ -6,11 +6,11 @@ resource "aws_vpc" "devopsshack_vpc" {
   cidr_block = "10.0.0.0/16"
 
   tags = {
-    Name = "devopsshack-vpc"
+    Name = "devops-vpc"
   }
 }
 
-resource "aws_subnet" "devopsshack_subnet" {
+resource "aws_subnet" "devops_subnet" {
   count                   = 2
   vpc_id                  = aws_vpc.devopsshack_vpc.id
   cidr_block              = cidrsubnet(aws_vpc.devopsshack_vpc.cidr_block, 8, count.index)
