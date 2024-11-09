@@ -2,10 +2,10 @@
 
 * **Two Environments** :
   1. **Blue** : Current live version (production).
-  1. **Green** : New version to be deployed.
+  2. **Green** : New version to be deployed.
 * **Deployment Process** :
 
-    Deploy new version to**Green** environment.
+    1. Deploy new version to**Green** environment.
 
     Test the Green environment (e.g., functional tests).
 
