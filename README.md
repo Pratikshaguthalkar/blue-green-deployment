@@ -275,7 +275,10 @@
    ```
    kubectl describe secret mysecretname -n webapps
    ```
-4. Add this token into jenkins credentials
+4. 
+
+
+1. Add this token into jenkins credentials
 
    Go to manage Jenkins
 
@@ -284,7 +287,7 @@
    Add Credentials
 
    ![1731243976728](image/README/1731243976728.png)
-5. Install Plugin in Jenkins
+7. Install Plugin in Jenkins
 
    `SonarQube Scanner`
 
