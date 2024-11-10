@@ -295,6 +295,6 @@
 * `Maven Integration` & `Pipeline Maven Integration`
 * `Pipeline stage view`
 
-`Docker pipeline`
+* `Docker pipeline`
 
 `Kubernetes`,`Kubernetes CLI`,`Kubernetes Credentials`,`Kubernetes Client API`
