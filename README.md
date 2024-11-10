@@ -278,7 +278,6 @@
 
 #### Configure Jenkins
 
-
 1. Add this token into jenkins credentials
 
 * Go to manage Jenkins
@@ -296,5 +295,4 @@
 * `Pipeline stage view`
 
 * `Docker pipeline`
-
-`Kubernetes`,`Kubernetes CLI`,`Kubernetes Credentials`,`Kubernetes Client API`
+* `Kubernetes`,`Kubernetes CLI`,`Kubernetes Credentials`,`Kubernetes Client API`
