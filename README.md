@@ -293,8 +293,7 @@
 * `Config file provider`
 
 * `Maven Integration` & `Pipeline Maven Integration`
-
-`Pipeline stage view`
+* `Pipeline stage view`
 
 `Docker pipeline`
 
