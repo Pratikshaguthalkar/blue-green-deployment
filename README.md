@@ -285,7 +285,9 @@
 * Go to Credentials (Global)
 * Add Credentials
 
-![1731243976728](image/README/1731243976728.png)Install Plugin in Jenkins
+![1731243976728](image/README/1731243976728.png)
+
+Install Plugin in Jenkins
 
 `SonarQube Scanner`
 
