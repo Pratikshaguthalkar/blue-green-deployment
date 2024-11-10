@@ -278,25 +278,28 @@
 
 #### Configure Jenkins
 
-1. Add this token into jenkins credentials
 
-   Go to manage Jenkins
+Add this token into jenkins credentials
 
-   Go to Credentials (Global)
+* Go to manage Jenkins
+* Go to Credentials (Global)
 
-   Add Credentials
+* Add Credentials
 
-   ![1731243976728](image/README/1731243976728.png)
-7. Install Plugin in Jenkins
+![1731243976728](image/README/1731243976728.png)
 
-   `SonarQube Scanner`
 
-   `Config file provider`
 
-   `Maven Integration` & `Pipeline Maven Integration`
+Install Plugin in Jenkins
 
-   `Pipeline stage view`
+`SonarQube Scanner`
 
-   `Docker pipeline`
+`Config file provider`
 
-   `Kubernetes`,`Kubernetes CLI`,`Kubernetes Credentials`,`Kubernetes Client API`
+`Maven Integration` & `Pipeline Maven Integration`
+
+`Pipeline stage view`
+
+`Docker pipeline`
+
+`Kubernetes`,`Kubernetes CLI`,`Kubernetes Credentials`,`Kubernetes Client API`
