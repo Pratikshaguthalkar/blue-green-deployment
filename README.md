@@ -273,5 +273,5 @@
 3. Copy token and add it into jenkins credentials
 
    ```
-   kubectl describe 
+   kubectl describe secret mysecretname -n webapps
    ```
