@@ -276,3 +276,5 @@
    kubectl describe secret mysecretname -n webapps
    ```
 4. Add this token into jenkins credentials
+
+   Go to manage
