@@ -290,4 +290,4 @@
 
    `Config file provider`
 
-   Maven Integration & Pipeline Maven Integration
+   `Maven Integration` & `Pipeline Maven Integration`
