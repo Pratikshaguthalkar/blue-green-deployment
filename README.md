@@ -275,4 +275,4 @@
    ```
    kubectl describe secret mysecretname -n webapps
    ```
-4.
+4. Add this token into jenkins credentials
