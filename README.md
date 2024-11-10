@@ -278,7 +278,7 @@
 
 #### Configure Jenkins
 
-1. Add this token into jenkins credentials
+1. Add the token into jenkins credentials
 
 * Go to manage Jenkins
 * Go to Credentials (Global)
