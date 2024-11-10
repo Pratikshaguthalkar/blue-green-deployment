@@ -270,7 +270,7 @@
    ```
    kubectl apply -f svc/
    ```
-3. Copy token and add it into jenkins credentials
+3. Copy token 
 
    ```
    kubectl describe secret mysecretname -n webapps
