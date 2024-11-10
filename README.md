@@ -295,3 +295,5 @@
    `Pipeline stage view`
 
    `Docker pipeline`
+
+   Kuber
