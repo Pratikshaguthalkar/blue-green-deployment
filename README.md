@@ -284,4 +284,4 @@
    Add Credentials
 
    ![1731243976728](image/README/1731243976728.png)
-5.
+5. Install Plugin in Jenkins
