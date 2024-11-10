@@ -279,4 +279,4 @@
 
    Go to manage Jenkins
 
-   Go to Credentials
+   Go to Credentials ()
