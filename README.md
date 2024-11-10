@@ -277,4 +277,4 @@
    ```
 4. Add this token into jenkins credentials
 
-   Go to manage
+   Go to manage Jenkins
