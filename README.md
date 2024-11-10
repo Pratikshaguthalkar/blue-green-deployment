@@ -291,4 +291,6 @@
    `Config file provider`
 
    `Maven Integration` & `Pipeline Maven Integration`
+
+   `Pipeline stage view`
 7.
