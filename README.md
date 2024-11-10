@@ -296,4 +296,4 @@
 
    `Docker pipeline`
 
-   `Kubernetes`
+   `Kubernetes`,`Kubernetes CLI`
