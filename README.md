@@ -270,4 +270,4 @@
    ```
    kubectl apply -f svc/
    ```
-3. Copy token and
+3. Copy token and add it into jenkins credentials
