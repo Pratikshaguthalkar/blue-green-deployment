@@ -287,3 +287,5 @@
 5. Install Plugin in Jenkins
 
    SonarQube Scanner
+
+   Config file provider
