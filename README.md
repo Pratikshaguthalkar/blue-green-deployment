@@ -286,8 +286,9 @@
    ![1731243976728](image/README/1731243976728.png)
 5. Install Plugin in Jenkins
 
+   ```
    SonarQube Scanner
-
+   ```
    Config file provider
 
-   Maven Integration &
+   Maven Integration & Pipeline Maven Integration
