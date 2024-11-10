@@ -296,4 +296,4 @@
 
    `Docker pipeline`
 
-   Kuber
+   `Kubernetes`
