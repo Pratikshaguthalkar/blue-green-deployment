@@ -289,3 +289,5 @@
    SonarQube Scanner
 
    Config file provider
+
+   Maven Integration &
