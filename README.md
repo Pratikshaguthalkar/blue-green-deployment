@@ -270,8 +270,9 @@
    ```
    kubectl apply -f svc/
    ```
-3. Copy token 
+3. Copy token genrated using following command
 
    ```
    kubectl describe secret mysecretname -n webapps
    ```
+4.
