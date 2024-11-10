@@ -265,8 +265,7 @@
    ```
    kubectl create ns webapps
    ```
-2. 
-3. Run following command
+2. Run following command
 
    ```
    kubectl apply -f svc/
