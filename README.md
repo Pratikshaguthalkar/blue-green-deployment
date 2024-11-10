@@ -260,27 +260,37 @@
 
 #### Create pods,svc & namespace
 
-1. Create a namespace
 
-   ```
-   kubectl create ns webapps
-   ```
-2. Run following command
+Create a namespace
 
-   ```
-   kubectl apply -f svc/
-   ```
-3. Copy token genrated using following command
+```
+kubectl create ns webapps
+```
 
-   ```
-   kubectl describe secret mysecretname -n webapps
-   ```
-4. Add this token into jenkins credentials
 
-   Go to manage Jenkins
 
-   Go to Credentials (Global)
+Run following command
 
-   Add Credentials
+```
+kubectl apply -f svc/
+```
 
-   ![1731243976728](image/README/1731243976728.png)
+
+
+Copy token genrated using following command
+
+```
+kubectl describe secret mysecretname -n webapps
+```
+
+
+
+Add this token into jenkins credentials
+
+Go to manage Jenkins
+
+Go to Credentials (Global)
+
+Add Credentials
+
+![1731243976728](image/README/1731243976728.png)
