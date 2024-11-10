@@ -287,13 +287,12 @@
 
 ![1731243976728](image/README/1731243976728.png)
 
-Install Plugin in Jenkins
+2. Install Plugin in Jenkins
 
-`SonarQube Scanner`
+* `SonarQube Scanner`
+* `Config file provider`
 
-`Config file provider`
-
-`Maven Integration` & `Pipeline Maven Integration`
+* `Maven Integration` & `Pipeline Maven Integration`
 
 `Pipeline stage view`
 
