@@ -270,3 +270,4 @@
    ```
    kubectl apply -f svc/
    ```
+3. Copy token and
