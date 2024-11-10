@@ -281,10 +281,11 @@
 
 1. Add this token into jenkins credentials
 
-Go to manage Jenkins
+    Go to manage Jenkins
 
-* Go to Credentials (Global)
-* Add Credentials
+    Go to Credentials (Global)
+
+    Add Credentials
 
 ![1731243976728](image/README/1731243976728.png)
 
