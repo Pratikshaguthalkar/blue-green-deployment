@@ -294,4 +294,4 @@
 
    `Pipeline stage view`
 
-   Docker
+   `Docker pipeline`
