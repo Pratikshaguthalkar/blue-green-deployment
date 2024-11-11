@@ -310,6 +310,6 @@
 5. Add above token into the Jenkins Credentials
 
    ![1731305985629](image/README/1731305985629.png)
-6. Add Sonar-server configuration into Jenkins
+6. Add Sonar-server configuration into Jenkins()
 
    ![1731306074712](image/README/1731306074712.png)
