@@ -302,4 +302,4 @@
 ![1731305479454](image/README/1731305479454.png)
 
 4. Add SonarQube Token Into the Jenkins
-   Go to SonarQube
+   Go to SonarQube Administration Tab
