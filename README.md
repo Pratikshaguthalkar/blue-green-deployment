@@ -316,10 +316,8 @@
 7. Create New configuration for maven in Jenkins
 
 
-Go to managed files
+* Go to managed files
+* Click on Add new config
 
-Click on Add new config
-
-Select Global maven settings
-
-Give id name as maven-settings
+* Select Global maven settings
+* Give id name as `maven-settings`
