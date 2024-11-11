@@ -301,7 +301,7 @@
 
 ![1731305479454](image/README/1731305479454.png)
 
-4. Go to SonarQube Token 
+4. Go to SonarQube and Generate the Token
 
    Go to SonarQube Administration Tab
    Then Security,Users and then Token
