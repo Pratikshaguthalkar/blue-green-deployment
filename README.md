@@ -258,6 +258,8 @@
    docker ps
    ```
 
+   ---
+
 #### Create pods,svc & namespace
 
 1. Create a namespace
