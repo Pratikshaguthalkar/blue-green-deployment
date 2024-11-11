@@ -343,4 +343,4 @@
     ![1731307569829](image/README/1731307569829.png)
 
     ![1731307638610](image/README/1731307638610.png)
-13.
+13. Deploy pipeline with Green
