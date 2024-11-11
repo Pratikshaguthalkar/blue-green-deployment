@@ -289,12 +289,9 @@
 2. Install Plugin in Jenkins
 
 * `SonarQube Scanner`
-
-`Config file provider`
-
-`Maven Integration` & `Pipeline Maven Integration`
-
-`Pipeline stage view`
+* `Config file provider`
+* `Maven Integration` & `Pipeline Maven Integration`
+* `Pipeline stage view`
 
 `Docker pipeline`
 
