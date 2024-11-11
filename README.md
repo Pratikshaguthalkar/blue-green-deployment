@@ -39,6 +39,7 @@
 3. Nexus
 4. Server
 
+
 #### Setup Server Instance
 
 * Update Server
