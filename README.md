@@ -322,4 +322,4 @@
 * Add following configuration
 * Username & Password of Nexus
 
-  ![1731306511824](image/README/1731306511824.png)
+![1731306511824](image/README/1731306511824.png)
