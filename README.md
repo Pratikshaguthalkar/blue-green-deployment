@@ -338,4 +338,4 @@
 
     ![1731307342483](image/README/1731307342483.png)
 11. Modify the URL in the Jenkinsfile
-12. First deploy pipeline
+12. First deploy pipeline with Blue Environment and then with green
