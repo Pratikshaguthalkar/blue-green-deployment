@@ -348,4 +348,6 @@
     ![1731307693984](image/README/1731307693984.png)
 
     ![1731307737589](image/README/1731307737589.png)
-14. Artifacts are Store
+14. Artifacts are Stored in the Nexus
+
+    ![1731307800665](image/README/1731307800665.png)
