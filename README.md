@@ -158,6 +158,9 @@
   sudo apt-get install -y kubectl
   ```
 
+
+  ---
+
 #### Setup Nexus Server
 
 1. Update the server
