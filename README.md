@@ -303,3 +303,4 @@
 
 4. Add SonarQube Token Into the Jenkins
    Go to SonarQube Administration Tab
+   Then Security,Users
