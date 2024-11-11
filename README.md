@@ -92,6 +92,9 @@
   aws eks update-kubeconfig --region region-code --name my-cluster
   ```
 
+
+  ---
+
 #### Setup Jenkins Server
 
 * Run the script
