@@ -315,7 +315,6 @@
    ![1731306074712](image/README/1731306074712.png)
 7. Create New configuration for maven in Jenkins
 
-
 * Go to managed files
 * Click on Add new config
 
