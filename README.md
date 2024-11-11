@@ -316,4 +316,4 @@
 7. Create New configuration for maven in Jenkins
 
 
-Go to manage
+Go to managed files
