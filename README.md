@@ -334,4 +334,4 @@
 
 ![1731306972442](image/README/1731306972442.png)
 
-10.
+10. Copy the cluster
