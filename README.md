@@ -307,4 +307,6 @@
    Then Security,Users and then Token
 
    ![1731305876862](image/README/1731305876862.png)
-5. Add above
+5. Add above token into the Jenkins Credentials
+
+   ![1731305985629](image/README/1731305985629.png)
