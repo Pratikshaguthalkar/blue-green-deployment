@@ -290,9 +290,8 @@
 
 * `SonarQube Scanner`
 * `Config file provider`
-
 * `Maven Integration` & `Pipeline Maven Integration`
 * `Pipeline stage view`
-
 * `Docker pipeline`
 * `Kubernetes`,`Kubernetes CLI`,`Kubernetes Credentials`,`Kubernetes Client API`
+*
