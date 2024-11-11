@@ -305,3 +305,6 @@
 
    Go to SonarQube Administration Tab
    Then Security,Users and then Token
+
+   ![1731305876862](image/README/1731305876862.png)
+5.
