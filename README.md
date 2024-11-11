@@ -346,3 +346,5 @@
 13. Deploy pipeline with Green Environment
 
     ![1731307693984](image/README/1731307693984.png)
+
+    ![1731307737589](image/README/1731307737589.png)
