@@ -318,4 +318,6 @@
 
 Go to managed files
 
-Add new config
+Click on Add new config
+
+Select
