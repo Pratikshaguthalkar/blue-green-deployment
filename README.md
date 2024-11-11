@@ -296,7 +296,6 @@
 * `Kubernetes`,`Kubernetes CLI`,`Kubernetes Credentials`,`Kubernetes Client API`
 
 
-
 ![1731304864924](image/README/1731304864924.png)
 
 ![1731304885351](image/README/1731304885351.png)
