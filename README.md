@@ -330,7 +330,7 @@
 
 ![1731306794942](image/README/1731306794942.png)
 
-    9.	Add webhook into SonarQube (Add URL of jenkins)
+   9.	Add webhook into SonarQube (Add URL of jenkins)
 
 
 ![1731306972442](image/README/1731306972442.png)
