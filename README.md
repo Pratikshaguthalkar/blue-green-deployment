@@ -213,6 +213,8 @@
    cat sonatype-work/nexus3/admin.password
    ```
 
+   ---
+
 #### Setup SonarQube Server
 
 1. Update the Server
