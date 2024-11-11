@@ -320,4 +320,4 @@ Go to managed files
 
 Click on Add new config
 
-Select
+Select Global
