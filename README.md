@@ -295,7 +295,6 @@
 * `Docker pipeline`
 * `Kubernetes`,`Kubernetes CLI`,`Kubernetes Credentials`,`Kubernetes Client API`
 
-1. Add Maven and SonarQube Scanner Configuration into Jenkins
 
     ![1731304864924](image/README/1731304864924.png)
 
