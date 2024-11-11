@@ -294,4 +294,3 @@
 * `Pipeline stage view`
 * `Docker pipeline`
 * `Kubernetes`,`Kubernetes CLI`,`Kubernetes Credentials`,`Kubernetes Client API`
-*
