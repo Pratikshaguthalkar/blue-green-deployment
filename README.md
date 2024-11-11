@@ -313,4 +313,4 @@
 6. Add Sonar-server configuration into Jenkins(System-SonarQube Installation)
 
    ![1731306074712](image/README/1731306074712.png)
-7. Create New configuration for
+7. Create New configuration for maven in Jenkins
