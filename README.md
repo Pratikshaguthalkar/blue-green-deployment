@@ -320,4 +320,6 @@
 * Select Global maven settings
 * Give id name as `maven-settings`
 * Add following configuration
-* Username &
+* Username & Password of Nexus
+
+  ![1731306511824](image/README/1731306511824.png)
