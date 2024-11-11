@@ -324,4 +324,4 @@
 
 ![1731306511824](image/README/1731306511824.png)
 
-    8. Add maven-releases
+    8. Add maven-releases & maven-snapshot serverl
