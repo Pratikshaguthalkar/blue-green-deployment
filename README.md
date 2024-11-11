@@ -288,13 +288,17 @@
 
 2. Install Plugin in Jenkins
 
-* `SonarQube Scanner`
-* `Config file provider`
-* `Maven Integration` & `Pipeline Maven Integration`
-* `Pipeline stage view`
-* `Docker pipeline`
-* `Kubernetes`,`Kubernetes CLI`,`Kubernetes Credentials`,`Kubernetes Client API`
+`SonarQube Scanner`
 
+`Config file provider`
+
+`Maven Integration` & `Pipeline Maven Integration`
+
+`Pipeline stage view`
+
+`Docker pipeline`
+
+* `Kubernetes`,`Kubernetes CLI`,`Kubernetes Credentials`,`Kubernetes Client API`
 
 ![1731304864924](image/README/1731304864924.png)
 
