@@ -295,4 +295,4 @@
 * `Docker pipeline`
 * `Kubernetes`,`Kubernetes CLI`,`Kubernetes Credentials`,`Kubernetes Client API`
 
-  3.
+    3.
