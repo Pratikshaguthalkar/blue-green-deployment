@@ -298,3 +298,5 @@
 3. Add Maven and SonarQube Scanner Configuration into Jenkins
 
     ![1731305281125](image/README/1731305281125.png)
+
+![1731305289356](image/README/1731305289356.png)
