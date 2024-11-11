@@ -319,4 +319,5 @@
 * Click on Add new config
 * Select Global maven settings
 * Give id name as `maven-settings`
-* Add
+* Add following configuration
+* Username &
