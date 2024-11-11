@@ -321,3 +321,5 @@ Go to managed files
 Click on Add new config
 
 Select Global maven settings
+
+Give id name as maven-settings
