@@ -36,9 +36,9 @@ if [ $? -ne 0 ]; then
   exit 1
 fi
 
-# Step 5: Install necessary dependencies (fontconfig and OpenJDK 17)
-echo "Installing required dependencies (fontconfig and OpenJDK 17)..."
-sudo apt install fontconfig openjdk-17-jre -y
+# Step 5: Install necessary dependencies (fontconfig and OpenJDK 11)
+echo "Installing required dependencies (fontconfig and OpenJDK 11)..."
+sudo apt install fontconfig openjdk-11-jre -y
 if [ $? -ne 0 ]; then
   echo "Error: Failed to install dependencies (fontconfig or OpenJDK)." >&2
   exit 1
@@ -47,10 +47,10 @@ fi
 # Step 6: Check if Java is already installed, if not, check the version
 echo "Checking Java version..."
 if ! java -version &>/dev/null; then
-  echo "Java not found, installing OpenJDK 17..."
-  sudo apt install openjdk-17-jre -y
+  echo "Java not found, installing OpenJDK 11..."
+  sudo apt install openjdk-11-jre -y
   if [ $? -ne 0 ]; then
-    echo "Error: Failed to install OpenJDK 17." >&2
+    echo "Error: Failed to install OpenJDK 11." >&2
     exit 1
   fi
 else
